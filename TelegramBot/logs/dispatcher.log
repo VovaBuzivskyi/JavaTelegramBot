@@ -3,3 +3,12 @@
 2024-07-04 17:10:31 INFO  TelegramBot:35 - try
 2024-07-04 17:13:07 INFO  TelegramBot:35 - booot
 2024-07-04 17:13:07 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2024-07-04 18:53:59 INFO  TelegramBot:35 - hi
+2024-07-04 18:53:59 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2024-07-04 19:35:16 INFO  TelegramBot:35 - hihi
+2024-07-04 19:35:16 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2024-07-04 19:37:46 INFO  TelegramBot:35 - go
+2024-07-04 23:01:07 INFO  TelegramBot:46 - text
+2024-07-04 23:01:55 INFO  TelegramBot:46 - 📝
+2024-07-04 23:03:58 DEBUG UpdatePruducerImpl:14 - repeat
+2024-07-04 23:05:20 DEBUG UpdatePruducerImpl:14 - 
