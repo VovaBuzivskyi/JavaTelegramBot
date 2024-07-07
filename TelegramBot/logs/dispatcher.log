@@ -15,3 +15,13 @@
 2024-07-05 13:58:17 DEBUG UpdateProducerImpl:21 - go
 2024-07-05 14:01:24 DEBUG UpdateProducerImpl:21 - harlou
 2024-07-05 14:02:43 DEBUG UpdateProducerImpl:21 - halloo
+2024-07-05 14:57:07 DEBUG UpdateProducerImpl:21 - try
+2024-07-07 16:01:27 DEBUG UpdateProducerImpl:21 - Go
+2024-07-07 16:06:36 DEBUG UpdateProducerImpl:21 - Hello
+2024-07-07 16:07:50 DEBUG UpdateProducerImpl:21 - that should work properly
+2024-07-07 16:13:05 DEBUG UpdateProducerImpl:21 - fg
+2024-07-07 17:15:22 DEBUG UpdateProducerImpl:21 - tg
+2024-07-07 17:17:48 DEBUG UpdateProducerImpl:21 - la
+2024-07-07 17:38:13 DEBUG UpdateProducerImpl:21 - klov
+2024-07-07 17:39:50 DEBUG UpdateProducerImpl:21 - hi
+2024-07-07 17:41:07 DEBUG UpdateProducerImpl:21 - go

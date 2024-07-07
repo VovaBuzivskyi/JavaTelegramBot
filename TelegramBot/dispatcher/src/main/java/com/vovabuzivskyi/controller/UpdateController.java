@@ -58,7 +58,7 @@ public void processUpdate(Update update) {
         setVIew(sendMessage);
     }
 
-    private void setVIew(SendMessage sendMessage) {
+    public void setVIew(SendMessage sendMessage) {
         telegramBot.sendAnswerMassage(sendMessage);
     }
 

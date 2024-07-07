@@ -12,10 +12,13 @@
   <modules>
     <module>dispatcher</module>
     <module>common-rabbitmq</module>
+    <module>node</module>
   </modules>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <telegrambot.starter.version>6.1.0</telegrambot.starter.version>
+    <lombok.version>1.18.22</lombok.version>
   </properties>
 
   <parent>
@@ -32,7 +35,6 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-
       <dependency>
         <groupId>log4j</groupId>
         <artifactId>log4j</artifactId>
@@ -41,7 +43,6 @@
     <dependency>
       <groupId>org.projectlombok</groupId>
       <artifactId>lombok</artifactId>
-      <version>1.18.22</version>
       <scope>provided</scope>
     </dependency>
 
